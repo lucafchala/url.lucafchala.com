@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <rect width="32" height="32" rx="6" fill="#0d0c0a"/>
+  <!-- chain link left ring -->
+  <path d="M13 11.5 A4.5 4.5 0 0 0 8.5 16 A4.5 4.5 0 0 0 13 20.5 L15 20.5 L15 18.5 L13 18.5 A2.5 2.5 0 0 1 10.5 16 A2.5 2.5 0 0 1 13 13.5 L15 13.5 L15 11.5 Z" fill="#c08030"/>
+  <!-- chain link right ring -->
+  <path d="M19 11.5 A4.5 4.5 0 0 1 23.5 16 A4.5 4.5 0 0 1 19 20.5 L17 20.5 L17 18.5 L19 18.5 A2.5 2.5 0 0 0 21.5 16 A2.5 2.5 0 0 0 19 13.5 L17 13.5 L17 11.5 Z" fill="#c08030"/>
+  <!-- connector bar -->
+  <rect x="13" y="15" width="6" height="2" fill="#c08030"/>
+</svg>
