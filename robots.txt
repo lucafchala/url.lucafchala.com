@@ -1,0 +1,8 @@
+# robots.txt — url.lucafchala.com
+# Open access: a read-only PURL directory. All crawlers and AI agents are welcome.
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://url.lucafchala.com/sitemap.xml
