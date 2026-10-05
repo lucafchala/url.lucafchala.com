@@ -17,3 +17,7 @@
 
 /fonts/*
   Cache-Control: public, max-age=31536000, immutable
+
+# Agent/crawler discovery hints (RFC 8288).
+/
+  Link: <https://url.lucafchala.com/>; rel="canonical", </sitemap.xml>; rel="sitemap"
