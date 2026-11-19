@@ -28,6 +28,7 @@ Hand-owned files: `README.md`, `CLAUDE.md`, `_headers`, `robots.txt`, `icon.svg`
 
 ## Features
 
+- **Pages grid** ("PÁGINAS"): the ecosystem's public pages — lucafchala.com, fotos, rádio, the PU2XIK profile, paste, keys, proof, pays, status, restricted and dash. The list is `URL_HUBS` in dash; private or personal hosts (`rg`, `treino`) stay out.
 - Links grouped by `contact`, `events`, `video`, `tools` in native `<details>` sections (keyboard accessible without JS; `events` and `video` start collapsed).
 - **Filter** box: matches slug and destination, opens matching groups, restores them when cleared, shows "N of M". Press `/` to focus it.
 - **Copy** puts the canonical short link `https://lucafchala.com/<slug>` on the clipboard, with a fallback for non-secure contexts and an `aria-live` confirmation. **Open** goes straight to the destination.
